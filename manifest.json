@@ -1,0 +1,7 @@
+{
+	"name": "Plugin Installer",
+	"version": "1.0.0",
+	"description": "Allows you to install plugin directly from the #official-plugins or #unofficial-plugins channel.",
+	"author": "Strencher#1044",
+	"license": "MIT"
+}
