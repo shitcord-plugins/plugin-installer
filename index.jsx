@@ -4,6 +4,7 @@ import { patch, unpatch } from '@vizality/patcher';
 import { findInReactTree } from '@vizality/util/react';
 import { getModule } from '@vizality/webpack';
 import { debounce } from 'lodash';
+import React from 'react';
 
 const pluginChannels = [
    '753291447523868753',
